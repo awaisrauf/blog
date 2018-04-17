@@ -22,7 +22,7 @@ description: Your site description.
 
 # Build settings
 markdown: kramdown
-theme: minimal
+theme: Minimal
 
 
 # Enable theme compononents
